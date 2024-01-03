@@ -103,3 +103,4 @@ echo $CUSTOMER_NAME
 ./bike-shop.sh
 psql --username=postgras --dbname=bikes
 psql --username=freecodecamp --dbname=bikes
+psql --username=freecodecamp --dbname=bikes
