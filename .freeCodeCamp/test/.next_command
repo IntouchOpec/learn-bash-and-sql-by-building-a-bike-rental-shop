@@ -59,3 +59,4 @@ psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=postgres
+./bike-shop.sh
