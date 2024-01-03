@@ -62,3 +62,4 @@ psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
+echo '28 | Mountain'
