@@ -30,3 +30,4 @@ echo -e "\n~~~~~ Bike Rental Shop ~~~~~\n" >> bike-shop.sh
 echo -e "\n~~~~~ Bike Rental Shop ~~~~~\n"
 __vsc_prompt_cmd_original
 chmod +x bike-shop.sh
+./bike-shop.sh
