@@ -109,3 +109,4 @@ psql --username=freecodecamp --dbname=bikes
 psql --username=freecodecamp --dbname=bikes
 psql --username=freecodecamp --dbname=bikes
 ./bike-shop.sh
+clear
