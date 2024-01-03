@@ -100,3 +100,4 @@ echo $CUSTOMER_NAME=$
 echo $CUSTOMER_NAME
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
