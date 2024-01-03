@@ -98,3 +98,4 @@ CUSTOMER_NAME=$(echo $CUSTOMER_NAME | sed -r 's/^ *| *$//g')
 __vsc_prompt_cmd_original
 echo $CUSTOMER_NAME=$
 echo $CUSTOMER_NAME
+./bike-shop.sh
