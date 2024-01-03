@@ -99,3 +99,4 @@ __vsc_prompt_cmd_original
 echo $CUSTOMER_NAME=$
 echo $CUSTOMER_NAME
 ./bike-shop.sh
+./bike-shop.sh
