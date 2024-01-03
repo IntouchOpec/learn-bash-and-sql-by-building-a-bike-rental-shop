@@ -37,3 +37,4 @@ chmod +x bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=postgres
+./bike-shop.sh
